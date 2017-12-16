@@ -1,0 +1,2 @@
+INSERT INTO `dede_search_keywords` VALUES('1','吧吧','吧吧','3','0','1428048846','0','0');
+INSERT INTO `dede_search_keywords` VALUES('2','游吧','游吧','1','1','1428048855','0','0');
